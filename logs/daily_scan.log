@@ -1,0 +1,147 @@
+🔍 Kalshi Daily Market Scan - Thu Jan  8 09:00:01 EST 2026
+================================
+❌ Failed to identify best market. Scanner output:
+/Users/rod/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+🔍 Scanning Kalshi markets...
+📊 Found 200 open markets
+⚡ Phase 1: Fast scoring (volume + time)...
+🎯 Phase 2: Checking orderbooks for top 20 candidates...
+  [1/20] KXMVENFLSINGLEGAME-S20255F17822FE6F-A415... Score: 20/100
+  [2/20] KXMVENBASINGLEGAME-S2025CE4BD336302-9B8A... Score: 15/100
+  [3/20] KXMVENFLSINGLEGAME-S2025ECC83A6C6C4-F47C... Score: 15/100
+  [4/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025D1F5AB... Score: 15/100
+  [5/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025506331... Score: 15/100
+  [6/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025FEC192... Score: 15/100
+  [7/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025DD253E... Score: 15/100
+  [8/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025D66730... Score: 15/100
+  [9/20] KXMVESPORTSMULTIGAMEEXTENDED-S20252DD76C... Score: 15/100
+  [10/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025677C32... Score: 15/100
+  [11/20] KXMVENBASINGLEGAME-S2025BC13488BB8D-E576... Score: 15/100
+  [12/20] KXMVESPORTSMULTIGAMEEXTENDED-S202576E24F... Score: 15/100
+  [13/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025900667... Score: 15/100
+  [14/20] KXMVENFLSINGLEGAME-S202589D655122A6-5506... Score: 15/100
+  [15/20] KXMVESPORTSMULTIGAMEEXTENDED-S20250AC726... Score: 15/100
+  [16/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025677C32... Score: 15/100
+  [17/20] KXMVENBASINGLEGAME-S202530B6365C693-4FDF... Score: 15/100
+  [18/20] KXMVESPORTSMULTIGAMEEXTENDED-S20251C9720... Score: 15/100
+  [19/20] KXMVENFLSINGLEGAME-S2025F4A5169D0A8-91BE... Score: 15/100
+  [20/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025DD253E... Score: 15/100
+
+================================================================================
+🎯 TOP KALSHI MARKETS FOR TRADING
+================================================================================
+
+1. yes Bryce Young: 225+,yes Chuba Hubbard: 3+,yes Davante Adams: 4+,yes Tetai
+   Ticker: KXMVENFLSINGLEGAME-S20255F17822FE6F-A4158C1C063
+   Volume: $1,190
+   Closes: 2026-01-24 (16d)
+   Orderbook: ⚠️  Empty
+   Score: 20/100
+
+2. yes Pascal Siakam: 20+,yes Kon Knueppel: 4+,yes LaMelo Ball: 4+
+   Ticker: KXMVENBASINGLEGAME-S2025CE4BD336302-9B8A8327F21
+   Volume: $0
+   Closes: 2026-01-23 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+3. yes D'Andre Swift,yes Chicago,yes Caleb Williams: 175+,yes Luther Burden II
+   Ticker: KXMVENFLSINGLEGAME-S2025ECC83A6C6C4-F47CBA1DDE0
+   Volume: $0
+   Closes: 2026-01-25 (16d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+4. yes Donovan Mitchell: 2+,yes Anthony Edwards: 2+,yes Julius Randle: 2+,yes 
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025D1F5AB23C06-892F4DFC9E3
+   Volume: $0
+   Closes: 2026-01-23 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+5. yes Over 237.5 points scored,yes Over 241.5 points scored
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S20255063319F014-85631856DF3
+   Volume: $0
+   Closes: 2026-01-23 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+6. yes Donovan Mitchell: 2+,yes Anthony Edwards: 2+,yes Julius Randle: 2+,yes 
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025FEC1921ED54-03F0E06F548
+   Volume: $0
+   Closes: 2026-01-23 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+7. yes Chicago,yes Buffalo,yes New England,yes Philadelphia,yes Houston,yes Ca
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025DD253E8AAB0-039937E60E0
+   Volume: $0
+   Closes: 2026-01-25 (16d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+8. yes Donovan Mitchell: 2+,yes Anthony Edwards: 2+,yes Lauri Markkanen: 2+,ye
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025D667304CB59-ABE29FB1040
+   Volume: $0
+   Closes: 2026-01-23 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+9. yes Tyler Herro: 15+,yes Miles Bridges: 7+
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S20252DD76C32D9A-F7C2EFE062E
+   Volume: $0
+   Closes: 2026-01-23 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+10. yes Donovan Mitchell: 25+,yes Julius Randle: 20+,yes Lauri Markkanen: 25+,y
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025677C32134AC-F8327D3EEA6
+   Volume: $0
+   Closes: 2026-01-23 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+11. yes Darius Garland: 1+,yes Donovan Mitchell: 2+,yes Julius Randle: 4+
+   Ticker: KXMVENBASINGLEGAME-S2025BC13488BB8D-E5769CCE24F
+   Volume: $0
+   Closes: 2026-01-23 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+12. yes Anthony Edwards: 2+,yes Over 241.5 points scored
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S202576E24FD962A-D829F7A49CB
+   Volume: $0
+   Closes: 2026-01-23 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+13. yes Donovan Mitchell: 2+,yes Anthony Edwards: 2+,yes Julius Randle: 2+,yes 
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S20259006671E808-B86575FDD3C
+   Volume: $0
+   Closes: 2026-01-23 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+14. yes Josh Allen,yes Trevor Lawrence,yes Josh Allen: 200+,yes Trevor Lawrence
+   Ticker: KXMVENFLSINGLEGAME-S202589D655122A6-5506134F6F1
+   Volume: $0
+   Closes: 2026-01-25 (17d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+15. yes Chuba Hubbard: 1+,yes Christian Watson: 40+,yes Romeo Doubs: 20+,yes Ja
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S20250AC7267318F-0E7F3047D63
+   Volume: $0
+   Closes: 2026-01-24 (16d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+================================================================================
+
+💡 Best market: KXMVENFLSINGLEGAME-S20255F17822FE6F-A4158C1C063
+   Score: 20/100
+   ⚠️  Empty orderbook - May be off-hours or illiquid
+
+   Update bot with:
+   ticker = "KXMVENFLSINGLEGAME-S20255F17822FE6F-A4158C1C063"

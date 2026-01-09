@@ -1,0 +1,17 @@
+# Kalshi Trading Bot - Cron Schedule
+# Copy these lines into your crontab with: crontab -e
+# OR install automatically with: cat kalshi_crontab.txt | crontab -
+
+# Create logs directory first: mkdir -p /Users/rod/Antigravity/kalshi_bot/logs
+
+# Daily market scan and bot restart (9 AM Eastern)
+0 9 * * * cd /Users/rod/Antigravity/kalshi_bot && ./daily_scan.sh >> logs/daily_scan.log 2>&1 && pkill -f bot_v3.py; sleep 3; nohup python3 -u bot_v3.py > logs/trading_$(date +\%Y\%m\%d).log 2>&1 &
+
+# Auto-restart if bot halted during peak hours (hourly 6-11 PM)
+0 18-23 * * * pgrep -f bot_v3.py > /dev/null || (cd /Users/rod/Antigravity/kalshi_bot && nohup python3 -u bot_v3.py >> logs/trading_$(date +\%Y\%m\%d).log 2>&1 &)
+
+# Auto-stop at midnight for daily reset
+0 0 * * * pkill -f bot_v3.py
+
+# Optional: Email log summary at end of trading day (11:30 PM)
+# 30 23 * * * tail -50 /Users/rod/Antigravity/kalshi_bot/logs/trading_$(date +\%Y\%m\%d).log | mail -s "Kalshi Bot Daily Summary" your@email.com

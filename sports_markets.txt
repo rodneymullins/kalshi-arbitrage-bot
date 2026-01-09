@@ -1,0 +1,411 @@
+KALSHI NBA & NFL MARKETS
+Generated: 2026-01-08 19:36:10
+
+NBA MARKETS (269)
+================================================================================
+
+KXMVENBASINGLEGAME-S20259829D9938DF-A6CEC4E4291
+yes Charlotte,yes Kon Knueppel: 25+,yes LaMelo Ball: 15+,no Charlotte wins by over 3.5 Points,yes Over 243.5 points scored
+Volume: 467 | OI: 467
+
+KXMVENBASINGLEGAME-S2025AB9E7B76A19-EB04EC7A2C6
+yes Julius Randle: 6+,yes Minnesota,yes Anthony Edwards: 25+,yes Rudy Gobert: 10+
+Volume: 292 | OI: 292
+
+KXMVENBASINGLEGAME-S20251E76EC5D6F5-7512C3CDA6A
+yes Norman Powell: 2+,yes Tyler Herro: 2+,yes Tyler Herro: 2+,yes Miami,yes Tyler Herro: 15+,no Miami wins by over 9.5 Points,no Over 238.5 points scored
+Volume: 250 | OI: 250
+
+KXMVENBASINGLEGAME-S202575B4D6CAF78-6624BC2C394
+yes Pascal Siakam: 1+,yes LaMelo Ball: 4+,yes LaMelo Ball: 15+,yes Miles Bridges: 15+,yes Pascal Siakam: 20+,yes Pascal Siakam: 4+,no Over 243.5 points scored
+Volume: 169 | OI: 169
+
+KXMVENBASINGLEGAME-S20253B03C6C4FF6-EC0AE4DA2DF
+yes Kon Knueppel: 2+,yes Pascal Siakam: 1+,yes Kon Knueppel: 2+,yes LaMelo Ball: 4+,yes LaMelo Ball: 15+,yes Pascal Siakam: 25+,yes Pascal Siakam: 8+
+Volume: 169 | OI: 169
+
+KXMVENBASINGLEGAME-S20256461B2ACFD2-575EFC68EF1
+yes Anthony Edwards: 5+,yes Cleveland,yes Anthony Edwards: 30+
+Volume: 163 | OI: 163
+
+KXMVENBASINGLEGAME-S2025FD60D842A3F-EE5CC131B60
+yes Nikola Vučević: 20+,yes Bam Adebayo: 10+,yes Norman Powell: 25+,yes Tyler Herro: 20+
+Volume: 148 | OI: 148
+
+KXMVENBASINGLEGAME-S20252E309629C34-F3780111DCF
+yes Darius Garland: 6+,yes Darius Garland: 10+,yes Donovan Mitchell: 30+,yes Anthony Edwards: 25+,yes Julius Randle: 15+,yes Rudy Gobert: 10+
+Volume: 126 | OI: 126
+
+KXMVENBASINGLEGAME-S2025A7A6DACD459-C86BBCBC901
+yes Cooper Flagg: 1+,yes Lauri Markkanen: 1+,yes Lauri Markkanen: 4+,yes Anthony Davis: 20+,yes Cooper Flagg: 15+,yes Lauri Markkanen: 30+,yes Lauri Markkanen: 8+
+Volume: 109 | OI: 109
+
+KXMVENBASINGLEGAME-S202542535174B5F-B5474E9C9B3
+yes LaMelo Ball: 6+,yes LaMelo Ball: 20+,yes Miles Bridges: 15+,yes Pascal Siakam: 30+,yes LaMelo Ball: 2+,yes Pascal Siakam: 8+
+Volume: 101 | OI: 101
+
+KXMVENBASINGLEGAME-S20254FB7F58AC87-9E165534B5A
+yes Charlotte wins by over 3.5 Points,yes Over 243.5 points scored
+Volume: 77 | OI: 77
+
+KXMVENBASINGLEGAME-S20257E4C1D6A0EC-9CE1C6DF828
+yes Tyler Herro: 2+,yes Tyler Herro: 2+,yes Tyler Herro: 20+
+Volume: 56 | OI: 56
+
+KXMVENBASINGLEGAME-S2025124588623B3-D0F1033112A
+yes Charlotte,yes LaMelo Ball: 20+,yes Pascal Siakam: 25+,yes Pascal Siakam: 6+
+Volume: 38 | OI: 38
+
+KXMVENBASINGLEGAME-S2025844CC8B13BA-29073F422D7
+yes Darius Garland: 1+,yes Donovan Mitchell: 20+,yes Julius Randle: 15+,no Over 247.5 points scored
+Volume: 38 | OI: 38
+
+KXMVENBASINGLEGAME-S2025EE81042AB20-0D3F3E24034
+yes Kon Knueppel: 2+,yes LaMelo Ball: 6+,yes Miles Bridges: 2+,yes LaMelo Ball: 15+,yes Miles Bridges: 15+,yes Pascal Siakam: 20+,yes LaMelo Ball: 4+,yes Pascal Siakam: 6+
+Volume: 33 | OI: 33
+
+KXMVENBASINGLEGAME-S20258CD44A96C7D-F9BD0A89748
+yes Pascal Siakam: 2+,yes LaMelo Ball: 15+,yes Pascal Siakam: 25+,yes Pascal Siakam: 6+
+Volume: 29 | OI: 29
+
+KXMVENBASINGLEGAME-S2025A8ED7A57ED6-4D55A872378
+yes Lauri Markkanen: 2+,yes Lauri Markkanen: 2+,yes Cooper Flagg: 15+
+Volume: 25 | OI: 25
+
+KXMVENBASINGLEGAME-S20254FB7F58AC87-05E767BE375
+yes Indiana wins by over 3.5 Points,yes Over 237.5 points scored
+Volume: 19 | OI: 19
+
+KXMVENBASINGLEGAME-S2025D5DED0A039B-52EE5E38895
+yes Minnesota,yes Anthony Edwards: 20+,yes Anthony Edwards: 4+,no Over 244.5 points scored
+Volume: 19 | OI: 19
+
+KXMVENBASINGLEGAME-S20254FB7F58AC87-8C0151A3D87
+no Charlotte wins by over 6.5 Points,no Over 246.5 points scored
+Volume: 16 | OI: 16
+
+KXMVENBASINGLEGAME-S20253A8DCADA502-1171640D908
+yes LaMelo Ball: 2+,yes Pascal Siakam: 2+,yes LaMelo Ball: 25+,yes Pascal Siakam: 35+,yes Pascal Siakam: 10+,yes Over 243.5 points scored
+Volume: 15 | OI: 15
+
+KXMVENBASINGLEGAME-S202565711FD981B-1DAC5F8E180
+yes Darius Garland: 1+,yes Donovan Mitchell: 2+,yes Anthony Edwards: 2+,yes Julius Randle: 2+,yes Darius Garland: 10+,yes Donovan Mitchell: 20+,yes Evan Mobley: 15+,yes Anthony Edwards: 20+,yes Julius Randle: 15+,yes Rudy Gobert: 10+,yes Anthony Edwards: 2+
+Volume: 13 | OI: 13
+
+KXMVENBASINGLEGAME-S20254FB7F58AC87-67DC8C561F5
+yes Indiana wins by over 3.5 Points,no Over 237.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025E1AEC976C95-5AF489F2E7C
+yes Donovan Mitchell: 2+,yes Anthony Edwards: 3+,yes Donovan Mitchell: 25+,yes Evan Mobley: 15+,yes Anthony Edwards: 25+,yes Julius Randle: 15+,yes Rudy Gobert: 10+
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025020293875AF-509E44BA449
+yes Donovan Mitchell: 2+,yes Anthony Edwards: 2+,yes Cleveland,yes Darius Garland: 10+,yes Donovan Mitchell: 20+,yes Anthony Edwards: 20+
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025812F55FFB9B-23A63D01BA3
+yes Lauri Markkanen: 1+,yes Anthony Davis: 20+,yes Cooper Flagg: 15+,yes Lauri Markkanen: 20+,yes Cooper Flagg: 6+,yes Lauri Markkanen: 4+,yes Over 231.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20253AFD12BE84C-377D2CD29E8
+yes Kon Knueppel: 2+,yes LaMelo Ball: 1+,yes Indiana wins by over 3.5 Points
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025FE9599C8EBF-3018958D335
+yes Charlotte,yes LaMelo Ball: 5+,no Over 240.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20250CAD6BD3C9A-2BDD751EA05
+yes Charlotte,yes Kon Knueppel: 5+,yes LaMelo Ball: 5+,no Over 240.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20256AFAEACD499-BD3727325F1
+yes Pascal Siakam: 2+,yes Pascal Siakam: 35+,yes Pascal Siakam: 8+
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025C8FA768E36B-6B80E88994B
+yes Charlotte,yes Kon Knueppel: 5+,yes LaMelo Ball: 5+,yes Miles Bridges: 8+,no Over 240.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20253C0E924E6F5-3318B516BB9
+yes LaMelo Ball: 15+,yes Pascal Siakam: 30+,yes LaMelo Ball: 2+,yes Pascal Siakam: 8+,no Over 234.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025D6B3A32E078-328B2921E66
+yes Anthony Edwards: 2+,yes Cleveland,yes Donovan Mitchell: 20+,yes Anthony Edwards: 20+
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025266F68AC3F3-CE4E447EF9B
+yes LaMelo Ball: 15+,yes Pascal Siakam: 30+,yes Pascal Siakam: 8+,no Over 234.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S202524EDA707FBD-ECBF8914707
+yes Lauri Markkanen: 1+,yes Anthony Davis: 20+,yes Cooper Flagg: 15+,yes Lauri Markkanen: 20+,yes Cooper Flagg: 6+,yes Lauri Markkanen: 4+
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20257AAFBCA8766-86CD37F0DEE
+yes Charlotte,yes Kon Knueppel: 5+,yes LaMelo Ball: 5+,yes Miles Bridges: 8+,yes Pascal Siakam: 8+,no Over 240.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025BA6501B1E45-EF56C18AF3B
+yes LaMelo Ball: 6+,yes Pascal Siakam: 25+,yes Pascal Siakam: 6+
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025F9557EF24AD-A64CA230740
+yes Darius Garland: 15+,yes Donovan Mitchell: 25+,yes Anthony Edwards: 25+,yes Julius Randle: 20+,yes Rudy Gobert: 12+
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20257415E7A2037-3343D9AD9FD
+yes Donovan Mitchell: 2+,yes Anthony Edwards: 2+,yes Minnesota,yes Anthony Edwards: 25+
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025C8FA768E36B-807E4100E3C
+yes Charlotte,yes LaMelo Ball: 5+,yes Miles Bridges: 8+,yes Pascal Siakam: 8+,no Over 240.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20253392F623F19-37297DCEE05
+yes Darius Garland: 1+,yes Donovan Mitchell: 3+,yes Anthony Edwards: 2+,yes Donovan Mitchell: 2+,yes Julius Randle: 2+,yes Cleveland,yes Darius Garland: 10+,yes Donovan Mitchell: 20+,yes Anthony Edwards: 25+,yes Julius Randle: 15+,yes Donovan Mitchell: 2+,yes Anthony Edwards: 4+,yes Rudy Gobert: 10+,no Over 244.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20254FB7F58AC87-7AECD4E7C2E
+yes Indiana wins by over 3.5 Points,yes Over 240.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025A27D8667EB3-AF45044EBC6
+yes Donovan Mitchell: 2+,yes Anthony Edwards: 2+,yes Donovan Mitchell: 4+,yes Anthony Edwards: 2+,yes Julius Randle: 2+,yes Donovan Mitchell: 25+,yes Anthony Edwards: 25+,yes Julius Randle: 15+,yes Donovan Mitchell: 4+,yes Anthony Edwards: 2+,yes Julius Randle: 4+,yes Rudy Gobert: 10+
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S202564F5EBFBAD9-43A23CB648A
+yes LaMelo Ball: 15+,yes Pascal Siakam: 30+,no Over 234.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20250CAD6BD3C9A-903353E0A63
+yes Charlotte,yes LaMelo Ball: 5+,yes Pascal Siakam: 8+,no Over 240.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025BA6501B1E45-206DE47961A
+yes LaMelo Ball: 4+,yes Pascal Siakam: 35+,yes Pascal Siakam: 8+
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S2025492130C2D4A-F91AD75CDDF
+yes Pascal Siakam: 30+,no Over 234.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20254C1A729FF80-E298F2B9D37
+yes Charlotte,no Charlotte wins by over 3.5 Points,no Over 219.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S20254FB7F58AC87-A5F03532163
+yes Indiana wins by over 3.5 Points,no Over 240.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENBASINGLEGAME-S202518BF3811F2A-20E2012C4B3
+yes Anthony Davis: 25+,yes Cooper Flagg: 15+,yes Anthony Davis: 10+
+Volume: 0 | OI: 0
+
+
+
+NFL MARKETS (66)
+================================================================================
+
+KXMVENFLSINGLEGAME-S2025375F8C4F320-349362E64A1
+yes Saquon Barkley,yes Christian McCaffrey,yes San Francisco,yes Saquon Barkley: 10+,yes Jalen Hurts: 10+,yes Brock Purdy: 10+,yes Brian Robinson Jr.: 20+,no Over 43.5 points scored
+Volume: 2,325 | OI: 2,325
+
+KXMVENFLSINGLEGAME-S2025686F1FA82B4-3EB57538FF4
+yes Blake Corum,yes Tyler Higbee,yes Matthew Stafford: 175+,yes Tetairoa McMillan: 3+,yes Puka Nacua: 80+,yes Tyler Higbee: 10+,yes Blake Corum: 30+
+Volume: 730 | OI: 730
+
+KXMVENFLSINGLEGAME-S20253ECD79F620F-4DB3F623D0E
+yes James Cook III,yes Parker Washington,yes Trevor Lawrence,yes Josh Allen: 225+,yes Jakobi Meyers: 3+,yes Dalton Kincaid: 20+,yes James Cook III: 80+,yes Trevor Lawrence: 20+
+Volume: 359 | OI: 359
+
+KXMVENFLSINGLEGAME-S20259F379D9EA18-3C3986BCBB4
+yes Christian Watson,yes Caleb Williams: 175+,yes Colston Loveland: 30+,yes Over 43.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20255C097D00907-3B3753415F6
+yes Christian Watson,yes Caleb Williams: 175+,yes Over 43.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S202522D1007B52E-3D2EB4E5FF6
+yes Hunter Henry,yes New England,yes Justin Herbert: 200+,yes Drake Maye: 200+,yes Oronde Gadsden: 1+,yes TreVeyon Henderson: 1+,yes Keenan Allen: 30+,yes Ladd McConkey: 20+,yes Hunter Henry: 30+,yes Rhamondre Stevenson: 20+,yes TreVeyon Henderson: 40+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025356AABA066C-E1F6B22F628
+yes Davante Adams,yes Puka Nacua,yes Tyler Higbee,yes Los Angeles R
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S202572CA589924A-E9011F19145
+yes Hunter Henry,yes New England,yes Justin Herbert: 200+,yes Drake Maye: 200+,yes Oronde Gadsden: 1+,yes TreVeyon Henderson: 1+,yes Keenan Allen: 30+,yes Ladd McConkey: 20+,yes Hunter Henry: 30+,yes Rhamondre Stevenson: 20+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20257D7FA685C55-B9E59373A40
+no New England wins by over 2.5 points,no Over 54.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025448911E2D55-3EE39A1A8F2
+yes Kyren Williams,yes Puka Nacua,yes Tyler Higbee,yes Matthew Stafford: 250+,yes Davante Adams: 40+,yes Puka Nacua: 100+,yes Los Angeles R wins by over 9.5 points,yes Over 46.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025F9FA524F8D6-449CC0C7826
+yes Christian Watson,yes Over 43.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025278CBE53A59-2AD421A4A14
+yes Kyren Williams: 50+,yes Los Angeles R wins by over 10.5 points
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20254011185B538-35B5F4F1422
+yes Christian McCaffrey,yes Brock Purdy: 175+,yes Christian McCaffrey: 30+,yes George Kittle: 40+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025292EDBEBD3B-EF53879E462
+yes Christian McCaffrey,yes Brock Purdy: 175+,yes George Kittle: 40+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20254194478A26E-7BA2CA1898A
+yes James Cook III,yes Parker Washington,yes Trevor Lawrence,yes Josh Allen: 225+,yes Jakobi Meyers: 3+,yes James Cook III: 80+,yes Trevor Lawrence: 20+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025F906B24F6B9-AE17D3330C1
+yes Kyren Williams,yes Puka Nacua,yes Tyler Higbee,yes Matthew Stafford: 250+,yes Puka Nacua: 100+,yes Los Angeles R wins by over 9.5 points,yes Over 46.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S202522D1007B52E-E2B71390CDA
+yes Hunter Henry,yes New England,yes Justin Herbert: 200+,yes Drake Maye: 200+,yes Oronde Gadsden: 1+,yes TreVeyon Henderson: 1+,yes Keenan Allen: 30+,yes Ladd McConkey: 20+,yes Hunter Henry: 30+,yes Rhamondre Stevenson: 20+,yes TreVeyon Henderson: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S202557B2941A871-26483D452A9
+yes Kyren Williams,yes Puka Nacua,yes Tyler Higbee,yes Matthew Stafford: 250+,yes Los Angeles R wins by over 9.5 points,yes Over 46.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025CA4472AF46D-D707B199B20
+yes Saquon Barkley,yes Christian McCaffrey,yes San Francisco,yes DeVonta Smith: 3+,yes Saquon Barkley: 10+,yes Jalen Hurts: 10+,yes Brock Purdy: 10+,yes Brian Robinson Jr.: 20+,no Over 43.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025BE842B69325-B1ECF9EB23E
+yes Davante Adams,yes Kyren Williams,yes Puka Nacua,yes Los Angeles R wins by over 10.5 points,no Over 46.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20254D42BC4348B-B6E0CB2D4AF
+yes James Cook III,yes Parker Washington,yes Trevor Lawrence,yes Josh Allen: 225+,yes James Cook III: 80+,yes Trevor Lawrence: 20+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20258E99B8DBFC9-F6CAF8EFBEB
+yes Hunter Henry,yes New England,yes Justin Herbert: 200+,yes Drake Maye: 200+,yes TreVeyon Henderson: 1+,yes Keenan Allen: 30+,yes Ladd McConkey: 20+,yes Hunter Henry: 30+,yes Rhamondre Stevenson: 20+,yes TreVeyon Henderson: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20259A914F16FC6-96BE9CF75E3
+yes Hunter Henry,yes New England,yes Justin Herbert: 200+,yes Drake Maye: 200+,yes TreVeyon Henderson: 1+,yes Keenan Allen: 30+,yes Ladd McConkey: 20+,yes Rhamondre Stevenson: 20+,yes TreVeyon Henderson: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S202546A82F0DCE4-2BF4E22059B
+yes Davante Adams,yes Kyren Williams,yes Los Angeles R wins by over 10.5 points,no Over 46.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025A348C20D632-2E6BCB1145A
+yes Bryce Young: 175+,yes Matthew Stafford: 275+,yes Tetairoa McMillan: 40+,yes Chuba Hubbard: 10+,yes Blake Corum: 40+,yes Kyren Williams: 50+,yes Matthew Stafford: 10+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025B719E4D3BF5-4E3F943CE8B
+yes Hunter Henry,yes New England,yes Justin Herbert: 200+,yes Drake Maye: 200+,yes TreVeyon Henderson: 1+,yes Keenan Allen: 30+,yes Ladd McConkey: 20+,yes TreVeyon Henderson: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025D9B77AABCB4-F9A6D346B85
+yes Caleb Williams,yes D'Andre Swift,yes Josh Jacobs,yes Jordan Love,yes Chicago
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025165D7399B56-BC21E135237
+yes Hunter Henry,yes New England,yes Drake Maye: 200+,yes TreVeyon Henderson: 1+,yes Keenan Allen: 30+,yes Ladd McConkey: 20+,yes TreVeyon Henderson: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20254A701920888-3F9ADC3CAF0
+yes Hunter Henry,yes New England,yes TreVeyon Henderson: 1+,yes Keenan Allen: 30+,yes Ladd McConkey: 20+,yes TreVeyon Henderson: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S202540BE46FB90A-B8B5D0DC5DA
+yes Blake Corum,yes Bryce Young: 175+,yes Matthew Stafford: 275+,yes Tetairoa McMillan: 40+,yes Chuba Hubbard: 10+,yes Blake Corum: 40+,yes Kyren Williams: 50+,yes Matthew Stafford: 10+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025375F8C4F320-0E15CE7F990
+yes Saquon Barkley,yes Christian McCaffrey,yes San Francisco,yes Saquon Barkley: 10+,yes Jalen Hurts: 10+,yes Brock Purdy: 10+,yes Brian Robinson Jr.: 10+,no Over 43.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S202571F0BF4D3CF-8F990807AE1
+yes D'Andre Swift,yes Josh Jacobs,yes Caleb Williams: 175+,yes Jordan Love: 175+,yes Colston Loveland: 3+,yes DJ Moore: 2+,yes Luther Burden III: 3+,yes Rome Odunze: 3+,yes Christian Watson: 2+,yes Romeo Doubs: 1+,yes D'Andre Swift: 50+,yes Kyle Monangai: 50+,yes Josh Jacobs: 60+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025F0FCEB3A8A3-2639B6FE47C
+yes Saquon Barkley,yes Christian McCaffrey,yes San Francisco,yes Saquon Barkley: 10+,yes Jalen Hurts: 10+,yes Brock Purdy: 10+,no Over 43.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025915FE5FBD68-53B8958F5F6
+yes Josh Jacobs,yes Caleb Williams: 175+,yes Jordan Love: 175+,yes Colston Loveland: 3+,yes DJ Moore: 2+,yes Luther Burden III: 3+,yes Rome Odunze: 3+,yes Christian Watson: 2+,yes Romeo Doubs: 1+,yes D'Andre Swift: 50+,yes Kyle Monangai: 50+,yes Josh Jacobs: 60+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S202571CC062758C-47DA09ED469
+yes Hunter Henry,yes New England,yes TreVeyon Henderson: 1+,yes Ladd McConkey: 20+,yes TreVeyon Henderson: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S202505C2DD824A0-791E738E436
+yes Blake Corum,yes Bryce Young: 175+,yes Matthew Stafford: 275+,yes Tetairoa McMillan: 40+,yes Chuba Hubbard: 10+,yes Blake Corum: 40+,yes Kyren Williams: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025E6D17F849F6-555B878CBFE
+yes Tyler Higbee,yes Matthew Stafford: 175+,yes Tetairoa McMillan: 3+,yes Puka Nacua: 80+,yes Tyler Higbee: 10+,yes Blake Corum: 30+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S202547B349B4F7C-5F7D82BF17F
+yes Caleb Williams: 175+,yes Jordan Love: 175+,yes Colston Loveland: 3+,yes DJ Moore: 2+,yes Luther Burden III: 3+,yes Rome Odunze: 3+,yes Christian Watson: 2+,yes Romeo Doubs: 1+,yes D'Andre Swift: 50+,yes Kyle Monangai: 50+,yes Josh Jacobs: 60+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025217AEE4D671-25147CBC4A1
+yes Caleb Williams: 175+,yes Colston Loveland: 3+,yes DJ Moore: 2+,yes Luther Burden III: 3+,yes Rome Odunze: 3+,yes Christian Watson: 2+,yes Romeo Doubs: 1+,yes D'Andre Swift: 50+,yes Kyle Monangai: 50+,yes Josh Jacobs: 60+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025D490A44AC6D-9504BC8731D
+yes Ladd McConkey: 20+,yes Quentin Johnston: 20+,no New England wins by over 13.5 points,no Over 57.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20259F24F623914-CF6C081E1C4
+yes Hunter Henry,yes New England,yes TreVeyon Henderson: 1+,yes TreVeyon Henderson: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025364547C3D90-11807E50A12
+yes Ladd McConkey: 20+,no New England wins by over 13.5 points,no Over 57.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20252A7CD3B8C9E-DBE1F442FA2
+yes Blake Corum,yes Bryce Young: 175+,yes Matthew Stafford: 275+,yes Tetairoa McMillan: 40+,yes Blake Corum: 40+,yes Kyren Williams: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025490073CF67C-AB58F6D6651
+yes Colston Loveland: 3+,yes DJ Moore: 2+,yes Luther Burden III: 3+,yes Rome Odunze: 3+,yes Christian Watson: 2+,yes Romeo Doubs: 1+,yes D'Andre Swift: 50+,yes Kyle Monangai: 50+,yes Josh Jacobs: 60+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20254299A9732E9-2FE8DD2DF91
+yes Colston Loveland: 3+,yes DJ Moore: 2+,yes Luther Burden III: 3+,yes Rome Odunze: 3+,yes Christian Watson: 2+,yes Romeo Doubs: 1+,yes D'Andre Swift: 50+,yes Kyle Monangai: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025C4864A5079A-1BC106E802F
+yes Colston Loveland: 3+,yes DJ Moore: 2+,yes Luther Burden III: 3+,yes Rome Odunze: 3+,yes Christian Watson: 2+,yes Romeo Doubs: 1+,yes D'Andre Swift: 50+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025ED53E5C1144-15635865E8B
+yes Hunter Henry,yes New England,yes TreVeyon Henderson: 1+
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025A3183DDE35C-672FD732AA3
+yes Puka Nacua,yes Los Angeles R,yes Puka Nacua: 6+,yes Over 37.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S2025BE842B69325-12297A7AB76
+yes Kyren Williams,yes Puka Nacua,yes Tyler Higbee,yes Los Angeles R wins by over 9.5 points,yes Over 46.5 points scored
+Volume: 0 | OI: 0
+
+KXMVENFLSINGLEGAME-S20250E34A6CCC59-803A7FF4A34
+yes Colston Loveland: 3+,yes DJ Moore: 2+,yes Luther Burden III: 3+,yes Rome Odunze: 3+,yes Christian Watson: 2+,yes Romeo Doubs: 1+
+Volume: 0 | OI: 0
+

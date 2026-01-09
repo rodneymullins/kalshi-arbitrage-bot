@@ -1,0 +1,413 @@
+/Users/rod/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+============================================================
+🤖 KALSHI BOT CONFIGURATION
+============================================================
+Mode:              DRY
+Bankroll:          $29.40
+30-day Volume:     $0.00
+
+Trading Thresholds:
+  Min Market Vol:  $1,000
+  Min Price:       $0.20
+  Min Net Profit:  $0.50
+
+Strategy:
+  Edge Target:     5%
+  Max Kelly:       10%
+  Target Return:   10%
+
+Risk Management:
+  Max Losses:      3
+  Check Interval:  10s
+============================================================
+
+💰 Fee Calculator Initialized
+   30-day Volume: $0.00
+   Fee Tier: 7.0% (Taker) / 3.5% (Maker)
+   Min Net Profit: $0.50
+============================================================
+✅ Key loaded
+
+🔍 Pre-flight check for KXMVESPORTSMULTIGAMEEXTENDED-S20256C509BBBCA5-1F88...
+   Market: no Green Bay wins by over 7.5 points,yes Los Angeles R wins by over 3.
+   Volume: $2,325
+   ✅ Volume check passed!
+
+🚀 Starting trading loop...
+
+[09:00:30] No price (#1)
+[09:00:40] No price (#2)
+[09:00:51] No price (#3)
+[09:01:01] No price (#4)
+[09:01:11] No price (#5)
+[09:01:21] No price (#6)
+[09:01:31] No price (#7)
+[09:01:41] No price (#8)
+[09:01:52] No price (#9)
+[09:02:02] No price (#10)
+[09:02:13] No price (#11)
+[09:02:23] No price (#12)
+[09:02:33] No price (#13)
+[09:02:43] No price (#14)
+[09:02:53] No price (#15)
+[09:03:04] No price (#16)
+[09:03:14] No price (#17)
+[09:03:24] No price (#18)
+[09:03:34] No price (#19)
+[09:03:44] No price (#20)
+[09:03:55] No price (#21)
+[09:04:05] No price (#22)
+[09:04:15] No price (#23)
+[09:04:25] No price (#24)
+[09:04:35] No price (#25)
+[09:04:46] No price (#26)
+[09:04:56] No price (#27)
+[09:05:06] No price (#28)
+[09:05:16] No price (#29)
+[09:05:27] No price (#30)
+
+⛔ HALTED: Market has no pricing for 5+ minutes. Empty orderbook.
+   This usually means we're outside trading hours or the market is illiquid.
+   Recommendation: Run during peak hours (12pm-8pm ET) or find a liquid market.
+/Users/rod/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+============================================================
+🤖 KALSHI BOT CONFIGURATION
+============================================================
+Mode:              DRY
+Bankroll:          $29.40
+30-day Volume:     $0.00
+
+Trading Thresholds:
+  Min Market Vol:  $1,000
+  Min Price:       $0.20
+  Min Net Profit:  $0.10
+
+Strategy:
+  Edge Target:     5%
+  Max Kelly:       10%
+  Target Return:   1%
+
+Risk Management:
+  Max Losses:      3
+  Check Interval:  10s
+============================================================
+
+💰 Fee Calculator Initialized
+   30-day Volume: $0.00
+   Fee Tier: 7.0% (Taker) / 3.5% (Maker)
+   Min Net Profit: $0.10
+============================================================
+✅ Key loaded
+
+🔍 Pre-flight check for KXMVESPORTSMULTIGAMEEXTENDED-S20256C509BBBCA5-1F88...
+   Market: no Green Bay wins by over 7.5 points,yes Los Angeles R wins by over 3.
+   Volume: $2,325
+   ✅ Volume check passed!
+
+🚀 Starting trading loop...
+
+[12:18:59] No price (#1)
+[12:19:09] No price (#2)
+[12:19:20] No price (#3)
+[12:19:30] No price (#4)
+[12:19:40] No price (#5)
+[12:19:50] No price (#6)
+[12:20:01] No price (#7)
+[12:20:11] No price (#8)
+[12:20:21] No price (#9)
+[12:20:31] No price (#10)
+[12:20:41] No price (#11)
+[12:20:52] No price (#12)
+[12:21:02] No price (#13)
+[12:21:12] No price (#14)
+[12:21:22] No price (#15)
+[12:21:32] No price (#16)
+[12:21:43] No price (#17)
+[12:21:53] No price (#18)
+[12:22:03] No price (#19)
+[12:22:14] No price (#20)
+[12:22:24] No price (#21)
+[12:22:34] No price (#22)
+[12:22:44] No price (#23)
+[12:22:54] No price (#24)
+[12:23:05] No price (#25)
+[12:23:15] No price (#26)
+[12:23:25] No price (#27)
+[12:23:35] No price (#28)
+[12:23:45] No price (#29)
+[12:23:55] No price (#30)
+
+⛔ HALTED: Market has no pricing for 5+ minutes. Empty orderbook.
+   This usually means we're outside trading hours or the market is illiquid.
+   Recommendation: Run during peak hours (12pm-8pm ET) or find a liquid market.
+/Users/rod/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+============================================================
+🤖 KALSHI BOT CONFIGURATION
+============================================================
+Mode:              DRY
+Bankroll:          $29.40
+30-day Volume:     $0.00
+
+Trading Thresholds:
+  Min Market Vol:  $1,000
+  Min Price:       $0.20
+  Min Net Profit:  $0.10
+
+Strategy:
+  Edge Target:     5%
+  Max Kelly:       10%
+  Target Return:   1%
+
+Risk Management:
+  Max Losses:      3
+  Check Interval:  10s
+============================================================
+
+💰 Fee Calculator Initialized
+   30-day Volume: $0.00
+   Fee Tier: 7.0% (Taker) / 3.5% (Maker)
+   Min Net Profit: $0.10
+============================================================
+✅ Key loaded
+
+🔍 Pre-flight check for KXMVESPORTSMULTIGAMEEXTENDED-S20256C509BBBCA5-1F88...
+   Market: no Green Bay wins by over 7.5 points,yes Los Angeles R wins by over 3.
+   Volume: $2,325
+   ✅ Volume check passed!
+
+🚀 Starting trading loop...
+
+[13:08:46] No price (#1)
+[13:08:56] No price (#2)
+[13:09:06] No price (#3)
+[13:09:16] No price (#4)
+[13:09:26] No price (#5)
+[13:09:37] No price (#6)
+[13:09:47] No price (#7)
+[13:10:02] No price (#8)
+[13:10:12] No price (#9)
+/Users/rod/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+============================================================
+🤖 KALSHI BOT CONFIGURATION
+============================================================
+Mode:              DRY
+Bankroll:          $29.40
+30-day Volume:     $0.00
+
+Trading Thresholds:
+  Min Market Vol:  $1,000
+  Min Price:       $0.20
+  Min Net Profit:  $0.10
+
+Strategy:
+  Edge Target:     5%
+  Max Kelly:       10%
+  Target Return:   1%
+
+Risk Management:
+  Max Losses:      3
+  Check Interval:  10s
+============================================================
+
+💰 Fee Calculator Initialized
+   30-day Volume: $0.00
+   Fee Tier: 7.0% (Taker) / 3.5% (Maker)
+   Min Net Profit: $0.10
+============================================================
+✅ Key loaded
+
+🔍 Pre-flight check for KXMVESPORTSMULTIGAMEEXTENDED-S20256C509BBBCA5-1F88...
+   Market: no Green Bay wins by over 7.5 points,yes Los Angeles R wins by over 3.
+   Volume: $2,325
+   ✅ Volume check passed!
+
+🚀 Starting trading loop...
+
+[18:00:02] No price (#1)
+[18:00:12] No price (#2)
+[18:00:22] No price (#3)
+[18:00:32] No price (#4)
+[18:00:43] No price (#5)
+[18:00:53] No price (#6)
+[18:01:03] No price (#7)
+[18:01:13] No price (#8)
+[18:01:23] No price (#9)
+[18:01:34] No price (#10)
+[18:01:44] No price (#11)
+[18:01:54] No price (#12)
+[18:02:04] No price (#13)
+[18:02:14] No price (#14)
+[18:02:24] No price (#15)
+[18:02:35] No price (#16)
+[18:02:45] No price (#17)
+[18:02:55] No price (#18)
+[18:03:06] No price (#19)
+[18:03:16] No price (#20)
+[18:03:26] No price (#21)
+[18:03:36] No price (#22)
+[18:03:47] No price (#23)
+[18:03:57] No price (#24)
+[18:04:07] No price (#25)
+[18:04:17] No price (#26)
+[18:04:27] No price (#27)
+[18:04:37] No price (#28)
+[18:04:48] No price (#29)
+[18:04:58] No price (#30)
+
+⛔ HALTED: Market has no pricing for 5+ minutes. Empty orderbook.
+   This usually means we're outside trading hours or the market is illiquid.
+   Recommendation: Run during peak hours (12pm-8pm ET) or find a liquid market.
+/Users/rod/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+============================================================
+🤖 KALSHI BOT CONFIGURATION
+============================================================
+Mode:              DRY
+Bankroll:          $29.40
+30-day Volume:     $0.00
+
+Trading Thresholds:
+  Min Market Vol:  $1,000
+  Min Price:       $0.20
+  Min Net Profit:  $0.10
+
+Strategy:
+  Edge Target:     5%
+  Max Kelly:       10%
+  Target Return:   1%
+
+Risk Management:
+  Max Losses:      3
+  Check Interval:  10s
+============================================================
+
+💰 Fee Calculator Initialized
+   30-day Volume: $0.00
+   Fee Tier: 7.0% (Taker) / 3.5% (Maker)
+   Min Net Profit: $0.10
+============================================================
+✅ Key loaded
+
+🔍 Pre-flight check for KXMVESPORTSMULTIGAMEEXTENDED-S20256C509BBBCA5-1F88...
+   Market: no Green Bay wins by over 7.5 points,yes Los Angeles R wins by over 3.
+   Volume: $2,325
+   ✅ Volume check passed!
+
+🚀 Starting trading loop...
+
+[19:00:01] No price (#1)
+[19:00:12] No price (#2)
+[19:00:22] No price (#3)
+[19:00:32] No price (#4)
+[19:00:43] No price (#5)
+[19:00:53] No price (#6)
+[19:01:03] No price (#7)
+[19:01:13] No price (#8)
+[19:01:23] No price (#9)
+[19:01:34] No price (#10)
+[19:01:45] No price (#11)
+[19:01:55] No price (#12)
+[19:02:05] No price (#13)
+[19:02:15] No price (#14)
+[19:02:25] No price (#15)
+[19:02:35] No price (#16)
+[19:02:46] No price (#17)
+[19:02:56] No price (#18)
+[19:03:06] No price (#19)
+[19:03:16] No price (#20)
+[19:03:26] No price (#21)
+[19:03:37] No price (#22)
+[19:03:47] No price (#23)
+[19:03:57] No price (#24)
+[19:04:07] No price (#25)
+[19:04:17] No price (#26)
+[19:04:27] No price (#27)
+[19:04:38] No price (#28)
+[19:04:48] No price (#29)
+[19:04:58] No price (#30)
+
+⛔ HALTED: Market has no pricing for 5+ minutes. Empty orderbook.
+   This usually means we're outside trading hours or the market is illiquid.
+   Recommendation: Run during peak hours (12pm-8pm ET) or find a liquid market.
+/Users/rod/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+============================================================
+🤖 KALSHI BOT CONFIGURATION
+============================================================
+Mode:              DRY
+Bankroll:          $29.40
+30-day Volume:     $0.00
+
+Trading Thresholds:
+  Min Market Vol:  $1,000
+  Min Price:       $0.20
+  Min Net Profit:  $0.10
+
+Strategy:
+  Edge Target:     5%
+  Max Kelly:       10%
+  Target Return:   1%
+
+Risk Management:
+  Max Losses:      3
+  Check Interval:  10s
+============================================================
+
+💰 Fee Calculator Initialized
+   30-day Volume: $0.00
+   Fee Tier: 7.0% (Taker) / 3.5% (Maker)
+   Min Net Profit: $0.10
+============================================================
+✅ Key loaded
+
+🔍 Pre-flight check for KXMVESPORTSMULTIGAMEEXTENDED-S20256C509BBBCA5-1F88...
+   Market: no Green Bay wins by over 7.5 points,yes Los Angeles R wins by over 3.
+   Volume: $2,325
+   ✅ Volume check passed!
+
+🚀 Starting trading loop...
+
+[20:00:01] No price (#1)
+[20:00:12] No price (#2)
+[20:00:22] No price (#3)
+[20:00:32] No price (#4)
+[20:00:42] No price (#5)
+[20:00:53] No price (#6)
+[20:01:03] No price (#7)
+[20:01:13] No price (#8)
+[20:01:23] No price (#9)
+[20:01:34] No price (#10)
+[20:01:44] No price (#11)
+[20:01:54] No price (#12)
+[20:02:04] No price (#13)
+[20:02:15] No price (#14)
+[20:02:25] No price (#15)
+[20:02:35] No price (#16)
+[20:02:45] No price (#17)
+[20:02:56] No price (#18)
+[20:03:06] No price (#19)
+[20:03:16] No price (#20)
+[20:03:26] No price (#21)
+[20:03:36] No price (#22)
+[20:03:47] No price (#23)
+[20:03:57] No price (#24)
+[20:04:07] No price (#25)
+[20:04:18] No price (#26)
+[20:04:28] No price (#27)
+[20:04:38] No price (#28)
+[20:04:48] No price (#29)
+[20:04:59] No price (#30)
+
+⛔ HALTED: Market has no pricing for 5+ minutes. Empty orderbook.
+   This usually means we're outside trading hours or the market is illiquid.
+   Recommendation: Run during peak hours (12pm-8pm ET) or find a liquid market.
