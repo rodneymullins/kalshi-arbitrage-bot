@@ -10,6 +10,11 @@ from cryptography.hazmat.primitives import serialization
 # Import bot modules
 from bot_config import BotConfig
 from core.fee_calculator import FeeCalculator
+import kelly_criterion
+from strategies.timing_optimizer import TimingOptimizer
+from strategies.timing_optimizer import TimingOptimizer
+from ai.agent_council import AgentCouncil
+from trade_db import TradeDB
 
 load_dotenv()
 
@@ -122,7 +127,23 @@ print(f"💰 Fee Calculator Initialized")
 print(f"   30-day Volume: ${config.VOLUME_30D:,.2f}")
 print(f"   Fee Tier: {config.get_fee_tier()}% (Taker) / {config.get_fee_tier()/2}% (Maker)")
 print(f"   Min Net Profit: ${MIN_NET_PROFIT:.2f}")
+
+# Initialize AI decision system
+timing_optimizer = TimingOptimizer()
+agent_council = AgentCouncil()
+print(f"\n🤖 AI Decision System Initialized")
+print(f"   Kelly Criterion: Enabled (Bankroll: ${BANKROLL:,.2f})")
+print(f"   Timing Optimizer: Enabled")
+print(f"   Agent Council: 4 agents (Risk, Value, Timing, Sentiment)")
 print("="*60)
+
+# Initialize Database
+try:
+    db = TradeDB()
+    print("✅ TradeDB Connected")
+except Exception as e:
+    print(f"⚠️  TradeDB Failed: {e}")
+    db = None
 
 k = Kalshi()
 ticker = "KXMVESPORTSMULTIGAMEEXTENDED-S20256C509BBBCA5-1F88D9ED2AC"  # Updated by daily scan
@@ -172,13 +193,59 @@ while True:
             time.sleep(CHECK_SEC)
             continue
         
-        edge = config.EDGE
-        kelly = edge / ((1/p) - 1)
-        kelly = min(kelly, config.MAX_KELLY_FRACTION)
-        bet = kelly * BANKROLL
-        n = int(bet / p) if p > 0 else 0
-        
         t = datetime.now().strftime('%H:%M:%S')
+        
+        # Prepare opportunity data for AI decision system
+        opportunity = {
+            'spread': 0.03,  # Placeholder - would calculate from orderbook
+            'net_profit': 0,  # Will be calculated
+            'price': p,
+            'market_category': 'sports',  # Would extract from market title
+            'ai_score': 0.65  # Placeholder - would come from FunctionGemma
+        }
+        
+        # Prepare market data for agents
+        market_data = {
+            'volatility': 0.08,  # Placeholder
+            'volume_1h': market_info.get('volume', 0) if market_info else 0,
+            'close_time_hours': 12,  # Placeholder
+            'orderbook': [],  # Placeholder
+            'recent_prices': [p]  # Placeholder
+        }
+        
+        # Bot state for risk assessment
+        bot_state = {
+            'consecutive_losses': losses,
+            'last_category': 'sports'  # Placeholder
+        }
+        
+        # Step 1: Agent Council Decision
+        council_decision = agent_council.decide(opportunity, market_data, bot_state)
+        
+        if not council_decision['execute']:
+            print(f"[{t}] Council VETOED trade - Confidence: {council_decision['confidence']:.0%}")
+            print(f"  Votes: {council_decision['votes']}")
+            time.sleep(CHECK_SEC)
+            continue
+        
+        print(f"[{t}] Council APPROVED trade - Confidence: {council_decision['confidence']:.0%}")
+        
+        # Step 2: Timing Check
+        timing_rec = timing_optimizer.get_execution_recommendation(opportunity, market_data)
+        
+        if not timing_rec['execute_now']:
+            print(f"  ⏰ Timing: WAIT {timing_rec['recommended_delay_human']}")
+            print(f"     Reasons: {', '.join(timing_rec['reasons'])}")
+            time.sleep(CHECK_SEC)
+            continue
+        
+        print(f"  ⏰ Timing: EXECUTE NOW (optimal)")
+        
+        # Step 3: Kelly Position Sizing
+        edge = config.EDGE
+        kelly_fraction = kelly_criterion.get_kelly_fraction(edge, p)
+        bet = kelly_criterion.get_bet_size(edge, p, BANKROLL)
+        n = int(bet / p) if p > 0 else 0
         
         if n > 0 and losses < config.MAX_CONSECUTIVE_LOSSES:
             # Calculate expected profit with fees
@@ -197,7 +264,9 @@ while True:
             net_profit = profit_analysis['net_profit']
             
             # Display analysis
-            print(f"\n[{t}] Price: ${p:.2f} | Edge: {edge:.0%} | Kelly: ${bet:.2f} | Qty: {n}")
+            print(f"\n[{t}] 🤖 AI-ENHANCED TRADE")
+            print(f"  Price: ${p:.2f} | Edge: {edge:.0%} | Kelly: {kelly_fraction:.1%} | Qty: {n}")
+            print(f"  Council: {council_decision['confidence']:.0%} confidence (Score: {council_decision['weighted_score']:.2f})")
             print(f"  Buy @ ${p:.2f} → Sell @ ${target_sell_price:.2f} ({TARGET_RETURN_PCT*100:.0f}% target)")
             print(f"  Gross: ${gross_profit:.2f} - Fees: ${total_fees:.2f} = Net: ${net_profit:.2f}")
             
@@ -206,7 +275,19 @@ while True:
                 print(f"  ✅ Profitable after fees (>${MIN_NET_PROFIT:.2f})")
                 
                 if k.buy(ticker, n, int(p * 100)):
-                    print(f"  💰 SUCCESS! Expected net profit: ${net_profit:.2f}")
+                    if db:
+                        try:
+                            trade_id = db.log_trade(
+                                market=ticker,
+                                side="YES", # Assuming YES for now as per logic
+                                size=n,
+                                price=p,
+                                pnl=0 # Initial PnL
+                            )
+                            print(f"  📝 Logged trade ID: {trade_id}")
+                        except Exception as e:
+                            print(f"  ⚠️  Failed to log trade: {e}")
+                            
                     losses = 0  # Reset on success
                 else:
                     losses += 1

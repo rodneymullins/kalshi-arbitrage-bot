@@ -145,3 +145,150 @@
 
    Update bot with:
    ticker = "KXMVENFLSINGLEGAME-S20255F17822FE6F-A4158C1C063"
+🔍 Kalshi Daily Market Scan - Sat Jan 10 09:00:02 EST 2026
+================================
+❌ Failed to identify best market. Scanner output:
+/Users/rod/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+🔍 Scanning Kalshi markets...
+📊 Found 200 open markets
+⚡ Phase 1: Fast scoring (volume + time)...
+🎯 Phase 2: Checking orderbooks for top 20 candidates...
+  [1/20] KXMVESPORTSMULTIGAMEEXTENDED-S20253A2165... Score: 15/100
+  [2/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025ADB2B5... Score: 15/100
+  [3/20] KXMVESPORTSMULTIGAMEEXTENDED-S202517C3CC... Score: 15/100
+  [4/20] KXMVENFLSINGLEGAME-S202597F027C59E4-1118... Score: 15/100
+  [5/20] KXMVESPORTSMULTIGAMEEXTENDED-S202520D457... Score: 15/100
+  [6/20] KXMVENFLSINGLEGAME-S2025258A99DC182-72F7... Score: 15/100
+  [7/20] KXMVESPORTSMULTIGAMEEXTENDED-S20258D5F70... Score: 15/100
+  [8/20] KXMVENBASINGLEGAME-S20252819BCDDDAD-24B9... Score: 15/100
+  [9/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025467693... Score: 15/100
+  [10/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025EA19FA... Score: 15/100
+  [11/20] KXMVESPORTSMULTIGAMEEXTENDED-S202524C35A... Score: 15/100
+  [12/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025C74452... Score: 15/100
+  [13/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025C17987... Score: 15/100
+  [14/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025625210... Score: 15/100
+  [15/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025ADB2B5... Score: 15/100
+  [16/20] KXMVENFLSINGLEGAME-S20250A84030AE01-5487... Score: 15/100
+  [17/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025F4E4F2... Score: 15/100
+  [18/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025BAB306... Score: 15/100
+  [19/20] KXMVESPORTSMULTIGAMEEXTENDED-S2025C77370... Score: 15/100
+  [20/20] KXMVESPORTSMULTIGAMEEXTENDED-S20253BA446... Score: 15/100
+
+================================================================================
+🎯 TOP KALSHI MARKETS FOR TRADING
+================================================================================
+
+1. yes James Harden: 1+,yes Kawhi Leonard: 1+,yes Coby White: 2+,yes James Har
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S20253A2165A4134-A7039669734
+   Volume: $0
+   Closes: 2026-01-25 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+2. yes Kon Knueppel: 2+,yes Norman Powell: 2+,yes Tyler Herro: 2+,yes Donovan 
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025ADB2B58EF6F-B5CAD7183E6
+   Volume: $0
+   Closes: 2026-01-25 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+3. yes Donovan Mitchell: 25+,yes Evan Mobley: 15+,yes Evan Mobley: 6+,no Cleve
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S202517C3CC89EF8-D9466BFB376
+   Volume: $0
+   Closes: 2026-01-24 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+4. yes Blake Corum,yes Bryce Young: 195+,yes Matthew Stafford: 200+,yes Tetair
+   Ticker: KXMVENFLSINGLEGAME-S202597F027C59E4-1118433955A
+   Volume: $0
+   Closes: 2026-01-24 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+5. yes Detroit,yes Cleveland,yes LaMelo Ball: 15+,yes Darius Garland: 15+,yes 
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S202520D4577A754-D624DD8B677
+   Volume: $0
+   Closes: 2026-01-25 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+6. yes Davante Adams,yes Matthew Stafford: 175+,yes Davante Adams: 40+,yes Kyr
+   Ticker: KXMVENFLSINGLEGAME-S2025258A99DC182-72F73014341
+   Volume: $0
+   Closes: 2026-01-24 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+7. yes Charlotte,yes Miami,yes Philadelphia
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S20258D5F70C8F0B-B8084A2E96A
+   Volume: $0
+   Closes: 2026-01-25 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+8. yes Derrick White: 2+,yes Jaylen Brown: 3+,yes Payton Pritchard: 2+,yes Jay
+   Ticker: KXMVENBASINGLEGAME-S20252819BCDDDAD-24B93E69744
+   Volume: $0
+   Closes: 2026-01-25 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+9. yes Tyler Herro: 1+,yes Tyler Herro: 15+,yes Tyler Herro: 2+
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S202546769312E53-167191A573B
+   Volume: $0
+   Closes: 2026-01-25 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+10. yes Caleb Williams: 175+,yes Jordan Love: 175+,yes Colston Loveland: 30+,ye
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025EA19FA9B019-7DA00C36CA7
+   Volume: $0
+   Closes: 2026-01-25 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+11. yes Los Angeles R,yes Luther Burden III: 30+,yes Jayden Reed: 30+,yes Kyle 
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S202524C35A376F7-5BD92C4FEC4
+   Volume: $0
+   Closes: 2026-01-24 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+12. yes Matthew Stafford: 250+,yes Trevor Lawrence: 250+,yes Justin Herbert: 25
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025C74452DCE9E-F3788AB58B7
+   Volume: $0
+   Closes: 2026-01-24 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+13. yes Chicago,yes Coby White: 20+,yes James Harden: 25+,yes Kawhi Leonard: 20
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025C1798706663-498401F069E
+   Volume: $0
+   Closes: 2026-01-25 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+14. yes Coby White: 10+,yes Ivica Zubac: 10+,yes James Harden: 20+,yes Pascal S
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025625210F901F-49FE0B29F35
+   Volume: $0
+   Closes: 2026-01-25 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+15. yes Kon Knueppel: 4+,yes Norman Powell: 2+,yes Tyler Herro: 2+,yes Donovan 
+   Ticker: KXMVESPORTSMULTIGAMEEXTENDED-S2025ADB2B58EF6F-ABA7D8CA8C6
+   Volume: $0
+   Closes: 2026-01-25 (14d)
+   Orderbook: ⚠️  Empty
+   Score: 15/100
+
+================================================================================
+
+💡 Best market: KXMVESPORTSMULTIGAMEEXTENDED-S20253A2165A4134-A7039669734
+   Score: 15/100
+   ⚠️  Empty orderbook - May be off-hours or illiquid
+
+   Update bot with:
+   ticker = "KXMVESPORTSMULTIGAMEEXTENDED-S20253A2165A4134-A7039669734"
